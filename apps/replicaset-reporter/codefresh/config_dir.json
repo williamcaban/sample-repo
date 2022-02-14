@@ -1,0 +1,1 @@
+{"appName":"replicaset-reporter","userGivenName":"replicaset-reporter","destNamespace":"codefresh","destServer":"https://kubernetes.default.svc","srcPath":"apps/replicaset-reporter/codefresh/resources","srcRepoURL":"https://github.com/williamcaban/sample-repo.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"},"exclude":"","include":""}
